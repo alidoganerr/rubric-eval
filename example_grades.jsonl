@@ -1,0 +1,16 @@
+{"item": "unit-conversion", "criterion": "speed", "rater": "alice", "passed": true}
+{"item": "unit-conversion", "criterion": "converts", "rater": "alice", "passed": true}
+{"item": "unit-conversion", "criterion": "unit", "rater": "alice", "passed": true}
+{"item": "unit-conversion", "criterion": "extra", "rater": "alice", "passed": false}
+{"item": "email-summary", "criterion": "date", "rater": "alice", "passed": true}
+{"item": "email-summary", "criterion": "reason", "rater": "alice", "passed": true}
+{"item": "email-summary", "criterion": "action", "rater": "alice", "passed": true}
+{"item": "email-summary", "criterion": "one-sentence", "rater": "alice", "passed": true}
+{"item": "unit-conversion", "criterion": "speed", "rater": "bob", "passed": true}
+{"item": "unit-conversion", "criterion": "converts", "rater": "bob", "passed": true}
+{"item": "unit-conversion", "criterion": "unit", "rater": "bob", "passed": false}
+{"item": "unit-conversion", "criterion": "extra", "rater": "bob", "passed": false}
+{"item": "email-summary", "criterion": "date", "rater": "bob", "passed": true}
+{"item": "email-summary", "criterion": "reason", "rater": "bob", "passed": true}
+{"item": "email-summary", "criterion": "action", "rater": "bob", "passed": true}
+{"item": "email-summary", "criterion": "one-sentence", "rater": "bob", "passed": true}
