@@ -54,6 +54,4 @@ If a rater grades the same criterion twice with different answers, that's an err
 
 Kappa has no value when there's nothing to agree on beyond chance, for example when both raters pass everything. You get `n/a` then.
 
-Tests: `python3 -m unittest`
-
-Ali Doğaner. MIT licensed.
+`python3 -m unittest` runs the tests. MIT license.
